@@ -122,11 +122,6 @@
     margin: 0
 }
 
-.collection.collection-card-standard .collection-desc .tours a,
-.collection.collection-card-standard .collection-desc .pricing a {
-    color: #fff
-}
-
 .collection.collection-card-standard .collection-desc .tours {
     padding-right: 30px
 }
